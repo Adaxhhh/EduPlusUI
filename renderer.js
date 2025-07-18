@@ -1,6 +1,6 @@
 // --- Global Configuration ---
 // The base URL for our Python backend API
-const API_BASE_URL = '/api';
+const API_BASE_URL = 'https://eduplus.onrender.com/api/';
 
 // --- DOM Elements & Global State ---
 const htmlEl = document.documentElement;
